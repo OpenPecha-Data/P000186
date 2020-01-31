@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །ཆོས་མངོན་པ་མཛོད་ཀྱི་བཤད་པ་འགྲེལ་པ་ལུགས་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-04
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Presentation of Abhidharma
+    bo: མངོན་པ་མཛོད་ཀྱི་བཤད་པ་འགྲེལ་པ་ལུགས་བཅས་བཞུགས་སོ། །
+  collection:
+    en: Pema Karpo Series–  Book 4
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༤
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-04
+  category:
+    en: Abhidharma
+    bo: ཆོས་མངོན་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-04.epub
+  description:
+    en: ''
+    bo: ''
