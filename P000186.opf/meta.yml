@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000186
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་མངོན་པ་མཛོད་ཀྱི་བཤད་པ་འགྲེལ་པ་ལུགས་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-04
   layers:
   - book_title
   - author
   - quotation
   - sabche
+  id: KS-PK-04
 web_metadata:
   title:
     en: A Presentation of Abhidharma
