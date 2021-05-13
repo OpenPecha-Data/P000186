@@ -2,51 +2,51 @@ id: 20c120e26b304396a114b16f55de2a0e
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: eb275e2352f546b89af6c985004f15c8
-  span:
-    start: 1260
-    end: 1456
-- id: 4899888737a847bab7042cb410c323cf
-  span:
-    start: 1569
-    end: 1718
-- id: d8be711578d44facb6535961cc887c3f
-  span:
-    start: 77164
-    end: 77235
-- id: 7c478de0f2b84ae4b14edb36637b75d4
-  span:
-    start: 81797
-    end: 81974
-- id: eaa939e1e1494741a2736ab1d01139cf
-  span:
-    start: 82223
-    end: 82281
-- id: 161292c579544a55ad2b029776573d92
-  span:
-    start: 144114
-    end: 144225
-- id: 12147f53ee0647fda0de71d47cff19d3
-  span:
-    start: 187865
-    end: 187991
-- id: 4a712ddf79be4e45927ff9325d975e32
-  span:
-    start: 197171
-    end: 197237
-- id: 9f5de730d83243b384cb81c21cf44493
-  span:
-    start: 214163
-    end: 214347
-- id: 160fb73eb1d14a4986b09c4a056436b7
-  span:
-    start: 231731
-    end: 231768
-- id: 4cd13d58727843c1abbe18622b700ba1
-  span:
-    start: 322886
-    end: 323331
-- id: b623558b682743588059163ac9a7d360
-  span:
-    start: 323447
-    end: 323573
+  eb275e2352f546b89af6c985004f15c8:
+    span:
+      start: 1260
+      end: 1456
+  4899888737a847bab7042cb410c323cf:
+    span:
+      start: 1569
+      end: 1718
+  d8be711578d44facb6535961cc887c3f:
+    span:
+      start: 77164
+      end: 77235
+  7c478de0f2b84ae4b14edb36637b75d4:
+    span:
+      start: 81797
+      end: 81974
+  eaa939e1e1494741a2736ab1d01139cf:
+    span:
+      start: 82223
+      end: 82281
+  161292c579544a55ad2b029776573d92:
+    span:
+      start: 144114
+      end: 144225
+  12147f53ee0647fda0de71d47cff19d3:
+    span:
+      start: 187865
+      end: 187991
+  4a712ddf79be4e45927ff9325d975e32:
+    span:
+      start: 197171
+      end: 197237
+  9f5de730d83243b384cb81c21cf44493:
+    span:
+      start: 214163
+      end: 214347
+  160fb73eb1d14a4986b09c4a056436b7:
+    span:
+      start: 231731
+      end: 231768
+  4cd13d58727843c1abbe18622b700ba1:
+    span:
+      start: 322886
+      end: 323331
+  b623558b682743588059163ac9a7d360:
+    span:
+      start: 323447
+      end: 323573
